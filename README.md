@@ -10,7 +10,8 @@ During training with different hyperparameter tunning, dataset, and label tweaks
 All three give satisfactory results and can generate images of girls wearing traditional Serbian clothing with high accuracy and generalization ability.
 
 The repository contains:
-- `FineTuneStableDiffusionNosnjaPoster.pdf` - research poster for the project 
+- `FineTuneStableDiffusionNosnjaPoster.pdf` - research poster for the project
+- `Project presentation.pdf` - presentation slides for the project 
 - `Srpska_Nosnja_LoRA_SD_fine_tuning.ipynb` - notebook used for fine-tuning Stable Diffusion with LoRA, adapted from Kohyaa's scripts
 - `dataset/` - folder containing images used for training
 - `labels/` - folder containing labels used for training
